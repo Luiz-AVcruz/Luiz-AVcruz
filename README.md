@@ -14,6 +14,7 @@ Hi, I'm Luiz.
 - 18 years old
 ! Gradle, Forge developer and Data Science enthusiast
 # ❤ Programming, IA, open source, and Minecraft mods
+```
 
 <!-- Social networks -->
 <div align="center">
