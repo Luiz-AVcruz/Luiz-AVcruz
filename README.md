@@ -1,8 +1,8 @@
 <!-- Console gif -->
-<img align="right" height="200" src="https://media.giphy.com/media/ciqpFeTIjGqBhl6rn9/giphy.gif"/>
+<img align="right" height="200" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
 
 <!-- Gnu & Linux gif -->
-<img align="left" height="200" src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif"/>
+<img align="left" height="200" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
 
 <!-- Short message -->
 
