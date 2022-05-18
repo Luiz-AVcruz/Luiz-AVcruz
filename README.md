@@ -9,7 +9,7 @@
 ```diff
 Hi, I'm Luiz.
 
-@@I'm a Java and C# developer@@
+@@I'm a Java and Kotlin developer@@
 + Living in Santa Catarina, Brazil.
 - 18 years old
 ! Gradle, Forge developer and Data Science enthusiast
