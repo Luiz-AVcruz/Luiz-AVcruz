@@ -12,7 +12,7 @@ Hi, I'm Luiz.
 @@I'm a Java and Kotlin developer@@
 + Living in Santa Catarina, Brazil.
 - 19 years old (2003)
-! Web dev, Forge and Data Science enthusiast
+! Web Dev, Forge and Data Science enthusiast
 # ❤ Programming, IA, open source, and Minecraft mods
 ```
 
