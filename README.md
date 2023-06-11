@@ -18,14 +18,13 @@ Hi, I'm Luiz.
 
 <!-- Social networks -->
 <div align="center">
-  <code>
     <a href="https://www.instagram.com/luiz_harry_/" target="_blank"><img height="30" src="https://www.instagram.com/static/images/ico/favicon-192.png/68d99ba29cc8.png"></a>
     <a href="https://twitter.com/LuizAugustoVit2" target="_blank"><img height="30" src="https://abs.twimg.com/favicons/twitter.ico"></a>
     <a href="https://www.linkedin.com/in/luiz-augusto-vitorino-cruz/" target="_blank"><img height="30" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"></a>
     <a href="https://telegram.me/Luizaugu5t0" target="_blank"><img height="30" src="https://telegram.org/favicon.ico?4"></a>
     <a href="https://gitlab.com/Luiz-AVcruz" target="_blank"><img height="30" src="https://about.gitlab.com/ico/favicon.ico"></a>
-  </code>
 </div>
+
 
 ##
 
