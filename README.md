@@ -9,11 +9,10 @@
 ```diff
 Hi, I'm Luiz.
 
-@@I'm a Java and Kotlin developer@@
 + Living in Santa Catarina, Brazil.
-- 19 years old (2003)
-! Web Dev, Forge and Data Science enthusiast
-# ❤ Programming, IA, open source, and Minecraft mods
+- 20 years old (2003)
+! Web Dev, Forge and AI enthusiast
+# ❤ Programming, AI, Open-source and Testing
 ```
 
 <!-- Social networks -->
