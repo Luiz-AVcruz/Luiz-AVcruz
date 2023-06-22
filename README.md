@@ -22,7 +22,6 @@ Hi, I'm Luiz.
 </div>
 
 ##
-
 <!-- Github statistics -->
 <!--
 <div align="center">
