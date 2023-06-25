@@ -5,7 +5,6 @@
 <img align="left" height="200" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif"/>
 
 <!-- Short message -->
-
 ```diff
 Hi, I'm Luiz.
 
