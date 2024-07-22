@@ -10,7 +10,7 @@
 Hi, I'm Luiz.
 
 + Living in Santa Catarina, Brazil.
-- 20 yo (2003)
+- 21 yo (07/2003)
 ! Web Dev, Forge and singer
 # ❤ Programming, Music, Open-source and Testing
 ```
