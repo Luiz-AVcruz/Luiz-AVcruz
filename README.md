@@ -17,7 +17,6 @@ Hi, I'm Luiz.
 
 <!-- Social networks -->
 <div align="center">
-    <a href="https://twitter.com/LuizAugustoVit2" target="_blank"><img height="30" src="https://abs.twimg.com/favicons/twitter.ico"></a>
     <a href="https://www.linkedin.com/in/luiz-augusto-vitorino-cruz/" target="_blank"><img height="30" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca"></a>
 </div>
 
